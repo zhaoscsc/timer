@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "title": "Minutentimer",
+    "secondsTitle": "{{duration}}-Sekunden-Timer",
+    "minutesTitle": "{{duration}}-Minuten-Timer",
+    "hoursTitle": "{{duration}}-Stunden-Timer",
+    "subtitle": "Einfacher und eleganter Online-Timer"
+  },
+  "features": {
+    "title": "Funktionen",
+    "items": {
+      "shortcuts": {
+        "title": "Tastenkombinationen",
+        "description": "Leertaste für Start/Pause, R zum Zurücksetzen"
+      },
+      "darkMode": {
+        "title": "Dunkelmodus",
+        "description": "Augenfreundlich für die Nacht"
+      },
+      "sound": {
+        "title": "Tonsignal",
+        "description": "Akustische Benachrichtigung bei Zeitablauf"
+      },
+      "fullscreen": {
+        "title": "Vollbildmodus",
+        "description": "Fokussiertes Arbeiten ohne Ablenkung"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Alle Rechte vorbehalten",
+    "language": "Sprache",
+    "theme": "Design",
+    "toggleTheme": "Design wechseln"
+  }
+} 

@@ -1,0 +1,70 @@
+.faq-details {
+  transition: all 0.3s ease;
+}
+
+.faq-details[open] summary {
+  margin-bottom: 1rem;
+}
+
+.faq-details summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.faq-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-item {
+  border-bottom: 1px solid rgba(156, 163, 175, 0.1);
+  padding: 1rem 0;
+}
+
+.faq-item:last-child {
+  border-bottom: none;
+}
+
+.faq-question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.5rem 0;
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+
+.faq-item[open] .faq-answer {
+  max-height: 500px;
+  transition: max-height 0.5s ease-in;
+}
+
+.faq-icon {
+  transition: transform 0.3s ease;
+}
+
+.faq-item[open] .faq-icon {
+  transform: rotate(180deg);
+}
+
+/* Instructions 相关样式 */
+.instruction-details summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.instruction-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.instruction-details summary::marker {
+  display: none;
+}
+
+.instruction-details summary::-moz-list-bullet {
+  display: none;
+} 

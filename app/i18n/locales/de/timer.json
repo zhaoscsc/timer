@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "timeStyle": "Zeitformat",
+    "fontColor": "Schriftfarbe",
+    "alertSound": "Alarmsound",
+    "save": "Speichern",
+    "sounds": {
+      "classic": "Klassisch",
+      "arcade": "Arcade",
+      "rhythm": "Rhythmus",
+      "retro": "Retro"
+    },
+    "background": "Hintergrund",
+    "backgrounds": {
+      "none": "Keine",
+      "beams": "Lichtstrahlen",
+      "beams-collision": "Explodierende Strahlen",
+      "lines": "Wellenlinien"
+    }
+  },
+  "features": {
+    "title": "Timer-Funktionen",
+    "subtitle": "Alles, was Sie für präzises und komfortables Zeitmanagement benötigen",
+    "items": {
+      "quickPresets": {
+        "title": "Schnellauswahl",
+        "description": "Wählen Sie aus häufig verwendeten Zeiten oder stellen Sie Ihre eigene Zeit mit einem Klick ein"
+      },
+      "precisionTiming": {
+        "title": "Präzise Zeitmessung",
+        "description": "Millisekunden-Genauigkeit mit intuitiver Pause- und Fortsetzen-Steuerung"
+      },
+      "soundAlerts": {
+        "title": "Akustische Signale",
+        "description": "Wählen Sie aus verschiedenen Benachrichtigungstönen für das Zeitende"
+      },
+      "darkMode": {
+        "title": "Dunkelmodus",
+        "description": "Automatische Themenanpassung basierend auf Ihren Systemeinstellungen"
+      },
+      "fullscreen": {
+        "title": "Vollbildmodus",
+        "description": "Ablenkungsfreie Erfahrung mit automatisch ausgeblendeten Bedienelementen"
+      },
+      "backgrounds": {
+        "title": "Schöne Hintergründe",
+        "description": "Wählen Sie aus dynamischen Hintergrundeffekten"
+      },
+      "multiLanguage": {
+        "title": "Mehrsprachig",
+        "description": "Vollständig übersetzte Benutzeroberfläche in 7 Sprachen"
+      },
+      "screenWake": {
+        "title": "Bildschirm aktiv",
+        "description": "Hält Ihren Bildschirm während der Timer-Sitzung wach"
+      },
+      "smartSettings": {
+        "title": "Intelligente Einstellungen",
+        "description": "Ihre Einstellungen werden automatisch für zukünftige Sitzungen gespeichert"
+      }
+    }
+  }
+} 

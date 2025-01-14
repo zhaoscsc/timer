@@ -1,0 +1,40 @@
+{
+
+  "seconds": "seconds",
+  "minutes": "minutes",
+  "hours": "hours",
+  "hero": {
+    "title": "Minute Timer",
+    "secondsTitle": "{{duration}} Seconds Timer",
+    "minutesTitle": "{{duration}} Minute Timer",
+    "hoursTitle": "{{duration}} Hours Timer",
+    "subtitle": "Simple and beautiful online timer"
+  },
+  "features": {
+    "title": "Features",
+    "items": {
+      "shortcuts": {
+        "title": "Keyboard Shortcuts",
+        "description": "Space to start/pause, R to reset"
+      },
+      "darkMode": {
+        "title": "Dark Mode",
+        "description": "Eye-friendly mode for night use"
+      },
+      "sound": {
+        "title": "Sound Alert",
+        "description": "Timer completion notification"
+      },
+      "fullscreen": {
+        "title": "Fullscreen Mode",
+        "description": "Focus mode, reduce distractions"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "All rights reserved",
+    "language": "Language",
+    "theme": "Theme",
+    "toggleTheme": "Toggle theme"
+  }
+} 

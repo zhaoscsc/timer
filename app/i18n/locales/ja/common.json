@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "分タイマー",
+    "secondsTitle": "{{duration}}秒タイマー",
+    "minutesTitle": "{{duration}}分タイマー",
+    "hoursTitle": "{{duration}}時間タイマー",
+    "subtitle": "シンプルで美しいオンラインタイマー"
+  },
+  "footer": {
+    "copyright": "著作権所有",
+    "language": "言語",
+    "theme": "テーマ",
+    "toggleTheme": "テーマ切替"
+  }
+} 

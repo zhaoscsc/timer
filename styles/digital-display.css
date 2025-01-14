@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'DS-Digital';
+  src: url('/fonts/ds-digit.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* 优化字体加载 */
+}
+
+.digital-display {
+  font-family: 'DS-Digital', monospace;
+} 

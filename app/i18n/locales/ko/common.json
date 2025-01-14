@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "타이머",
+    "secondsTitle": "{{duration}}초 타이머",
+    "minutesTitle": "{{duration}}분 타이머",
+    "hoursTitle": "{{duration}}시간 타이머",
+    "subtitle": "심플하고 아름다운 온라인 타이머"
+  },
+  "footer": {
+    "copyright": "모든 권리 보유",
+    "language": "언어",
+    "theme": "테마",
+    "toggleTheme": "테마 전환"
+  }
+} 

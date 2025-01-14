@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "timeStyle": "Time Style",
+    "fontColor": "Font Color",
+    "alertSound": "Alert Sound",
+    "save": "Save",
+    "sounds": {
+      "classic": "Classic",
+      "arcade": "Arcade",
+      "rhythm": "Rhythm",
+      "retro": "Retro"
+    },
+    "background": "Background",
+    "backgrounds": {
+      "none": "None",
+      "beams": "Light Beams",
+      "beams-collision": "Exploding Beams",
+      "lines": "Wave Lines"
+    }
+  },
+  "features": {
+    "title": "Timer Features",
+    "subtitle": "Everything you need for precise and comfortable time tracking",
+    "items": {
+      "quickPresets": {
+        "title": "Quick Presets",
+        "description": "Choose from common timer durations or set your own custom time with just one click"
+      },
+      "precisionTiming": {
+        "title": "Precise Timing",
+        "description": "Millisecond precision with intuitive pause and resume controls"
+      },
+      "soundAlerts": {
+        "title": "Sound Alerts",
+        "description": "Choose from various notification sounds to alert you when time's up"
+      },
+      "darkMode": {
+        "title": "Dark Mode",
+        "description": "Easy on the eyes with automatic theme switching based on your system preferences"
+      },
+      "fullscreen": {
+        "title": "Fullscreen Mode",
+        "description": "Distraction-free experience with auto-hiding controls for maximum focus"
+      },
+      "backgrounds": {
+        "title": "Beautiful Backgrounds",
+        "description": "Select from dynamic background effects to enhance your timing experience"
+      },
+      "multiLanguage": {
+        "title": "Multi-language",
+        "description": "Fully translated interface available in 7 different languages"
+      },
+      "screenWake": {
+        "title": "Screen Wake",
+        "description": "Keeps your device awake during active timing sessions"
+      },
+      "smartSettings": {
+        "title": "Smart Settings",
+        "description": "Your preferences are automatically saved for future sessions"
+      }
+    }
+  }
+}

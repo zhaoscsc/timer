@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "timeStyle": "時間表示",
+    "fontColor": "フォントカラー",
+    "alertSound": "通知音",
+    "save": "保存",
+    "sounds": {
+      "classic": "クラシック",
+      "arcade": "アーケード",
+      "rhythm": "リズム",
+      "retro": "レトロ"
+    },
+    "background": "背景",
+    "backgrounds": {
+      "none": "なし",
+      "beams": "光のビーム",
+      "beams-collision": "爆発するビーム",
+      "lines": "波線"
+    }
+  },
+  "features": {
+    "title": "タイマーの機能",
+    "subtitle": "正確で快適な時間管理に必要な機能が揃っています",
+    "items": {
+      "quickPresets": {
+        "title": "クイックプリセット",
+        "description": "よく使う時間をワンクリックで設定、カスタム時間も簡単に設定可能"
+      },
+      "precisionTiming": {
+        "title": "高精度計測",
+        "description": "ミリ秒単位の精度で、直感的な一時停止と再開が可能"
+      },
+      "soundAlerts": {
+        "title": "通知音",
+        "description": "時間終了時に様々な通知音から選んでお知らせ"
+      },
+      "darkMode": {
+        "title": "ダークモード",
+        "description": "システムの設定に合わせて自動的にテーマを切り替え、目に優しい"
+      },
+      "fullscreen": {
+        "title": "全画面モード",
+        "description": "集中できる環境で、コントロールは自動的に非表示"
+      },
+      "backgrounds": {
+        "title": "背景エフェクト",
+        "description": "タイマー体験を向上させる様々な動的背景効果"
+      },
+      "multiLanguage": {
+        "title": "多言語対応",
+        "description": "7つの言語に完全対応したインターフェース"
+      },
+      "screenWake": {
+        "title": "画面常時表示",
+        "description": "タイマー使用中は画面がスリープしません"
+      },
+      "smartSettings": {
+        "title": "スマート設定",
+        "description": "設定は自動的に保存され、次回も同じ設定で利用可能"
+      }
+    }
+  }
+}
