@@ -35,6 +35,10 @@ Deploy your own:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHahaHa0099%2FMinuteTimer.git)
 
+Example:
+- https://minute-timer-chi.vercel.app/
+
+
 ### Screenshots
 
 #### Desktop View
